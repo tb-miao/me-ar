@@ -48,7 +48,7 @@ const config = {
 	//极坐标图数据
 	polarChart: {
 		skills: ['HTML', 'Astro', 'JavaScript', 'Vue', 'Shell', 'Python'],
-		skillPoints: [41, 60, 20, 50, 30, 20],
+		skillPoints: [41, 60, 20, 40, 30, 20],
 	},
 
 	//社交按钮
