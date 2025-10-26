@@ -47,8 +47,8 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['Vue.js', 'HTML', 'JavaScript', 'Node', 'Python', 'linux', 'Docker', 'MongoDB', 'Astro'],
-		skillPoints: [85, 78, 88, 90, 78, 85, 65, 78, 90],
+		skills: ['HTML', 'Astro', 'JavaScript', 'Vue', 'Shell', 'Python'],
+		skillPoints: [41, 60, 20, 50, 30, 20],
 	},
 
 	//社交按钮
@@ -136,6 +136,7 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "https://tbmiao.dpdns.org/images/avatar.png", title: "主站", subtitle: "主站", text: "主站", url: "https://tbmiao.dpdns.org", show: false },
+		{ go: "前往", img: "https://status.tbmiao.dpdns.org/favicon.ico", title: "网站状态", subtitle: "网站状态", text: "网站状态", url: "https://status.tbmiao.dpdns.org", show: false },
 		{ go: "🗂️ 前往", img: "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png", title: "BA_LOGO", subtitle: "一个关于碧蓝档案的项目 ✨", text: "一个关于碧蓝档案的项目 ✨", url: "https://github.com/tb-miao/BA_LOGO", show: false },
 		{ go: "🎨 前往", img: "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png", title: "TNUY-windows", subtitle: "一个用Python开发的小工具 (●'◡'●)", text: "一个用Python开发的小工具 (●'◡'●)", url: "https://github.com/tb-miao/TNUY-windows", show: false },
 		{ go: "📝 前往", img: "https://tbmiao.dpdns.org/images/avatar.png", title: "随机图片", subtitle: "随机ACG图片API服务 (๑•̀ㅂ•́)و✧", text: "随机ACG图片API服务 (๑•̀ㅂ•́)و✧", url: "https://uapis.cn/api/v1/random/image?category=acg&type=pc", show: false },
